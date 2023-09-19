@@ -1,1 +1,3 @@
-# Nishaben_8913052
+Name: Nisha Patel
+Project Name: Lab 3
+Student Id: 8913052
